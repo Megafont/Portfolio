@@ -1,13 +1,10 @@
 # About Me
 My name is Michael, and I'm an animal lover. I've been into computer programming since I was a kid, thanks to a toy called Pre-Computer 1000 that had a basic programming mode in it. Of course, it was a very stripped down version of the language BASIC. I remember being fascinated that I could make that little computer do whatever I wanted. From there, I moved on through a number of additional langauges: 
 
-<details><summary>My Languages:</summary><p>
-
 - QBasic
 - Visual Basic
 - C++
 - and my favorite: **C#**.  
-  </p></details>
 
 ![Me dabbling with Unreal Engine 4.](https://avatars.githubusercontent.com/u/51346737?v=4)
 
