@@ -3,16 +3,11 @@ My name is Michael, and I'm an animal lover. I've been into computer programming
 
 <details>
   <summary>My Languages:</summary>
- 
-<p>
-  
+
 - QBasic
 - Visual Basic
 - C++
-- and my favorite: **C#**. 
-  
-</p>
-  
+- and my favorite: **C#**.  
 </details>
 
 ![Me dabbling with Unreal Engine 4.](https://avatars.githubusercontent.com/u/51346737?v=4)
