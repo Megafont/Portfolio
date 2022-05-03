@@ -4,10 +4,10 @@ My name is Michael, and I'm an animal lover. I've been into computer programming
 <details>
   <summary>My Languages:</summary>
   
-- QBasic
-- Visual Basic
-- C++
-- and my favorite: **C#**. 
+1. QBasic
+2. Visual Basic
+3. C++
+4. and my favorite: **C#**. 
   
 </details>
 
